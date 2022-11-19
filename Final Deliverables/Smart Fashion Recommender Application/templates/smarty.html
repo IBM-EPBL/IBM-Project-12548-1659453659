@@ -1,0 +1,22 @@
+<Doctype html>
+    <html>
+        <head><title>smarty</title>
+            <link rel="stylesheet" href="https://storagedemo-madzh.s3.jp-tok.cloud-object-storage.appdomain.cloud/MadmukFinalhomecss.css">
+        </head>
+        <body>
+          <img src="https://ibm-sfra.s3.ap.cloud-object-storage.appdomain.cloud/fashion-logos.jpg">
+            <script>
+                window.watsonAssistantChatOptions = {
+                  integrationID: "8bb71afc-ab4a-42ca-8a66-0dbac526a87e", // The ID of this integration.
+                  region: "eu-gb", // The region your integration is hosted in.
+                  serviceInstanceID: "f7f4f79d-19a1-4841-82b5-74a6c6e33887", // The ID of your service instance.
+                  onLoad: function(instance) { instance.render(); }
+                };
+                setTimeout(function(){
+                  const t=document.createElement('script');
+                  t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+                  document.head.appendChild(t);
+                });
+              </script>
+              </body>
+              </html>
