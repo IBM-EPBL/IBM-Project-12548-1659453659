@@ -1,4 +1,7 @@
-# Deployment link :-  https://www.youtube.com/watch?v=PijPa1Nt_zU  
+# Smart Fashion Recommender Application
+
+# WATSON ASSISTANT 
+ - [SMARTY ASSISTANT](https://ibm-sfra.s3.ap.cloud-object-storage.appdomain.cloud/smarty.html)
 
 # About this Project
 The user will login into the website and go through the products available on the website.  Instead of navigating to several screens for booking products online, the user can directly talk to Chatbot regarding the products.  Get the recommendations based on information provided by the user.
@@ -43,17 +46,17 @@ NANDHA COLLEGE OF  TECHNOLOGY
 
 ## Assignment  
 
- - [Team Leader : GOKULSANKAR T(https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20Lead%20-%20PARAMESHWARAN%20VK)]
- - [Team member : VIDHYA V](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MANOJ%20ADHITHYAN%20A)]
- - [Team member : GUHAN SANMUGAM A(https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MOHANRAJ%20M)]
- - [Team member : ALOK C](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20DAYANITHI%20S)]
+ - [Team Leader : GOKULSANKAR T](https://github.com/IBM-EPBL/IBM-Project-12548-1659453659/tree/main/Assignments/Team%20Lead%20-%20PARAMESHWARAN%20VK)
+ - [Team member : VIDHYA V](https://github.com/IBM-EPBL/IBM-Project-12548-1659453659/tree/main/Assignments/Team%20member%20%20MANOJ%20ADHITHYAN%20A)
+ - [Team member : GUHAN SANMUGAM A](https://github.com/IBM-EPBL/IBM-Project-12548-1659453659/tree/main/Assignments/Team%20member%20%20MOHANRAJ%20M)
+ - [Team member : ALOK C](https://github.com/IBM-EPBL/IBM-Project-12548-1659453659/tree/main/Assignments/Team%20member%20%20DAYANITHI%20S)
 
 
 ## Project Design & Planning
-- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
-- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
-- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
-- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-12548-1659453659/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
+- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-12548-1659453659/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
+- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-12548-1659453659/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
+- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-12548-1659453659/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
 
 ## Tech Stack
 
