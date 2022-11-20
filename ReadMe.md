@@ -1,5 +1,3 @@
-![1668850735951](https://user-images.githubusercontent.com/104810544/202844746-564aef42-1722-4508-a16b-cc8b321e0f48.jpg)
-
 # Deployment link :-  https://www.youtube.com/watch?v=PijPa1Nt_zU  
 
 # About this Project
@@ -12,9 +10,9 @@ The user will login into the website and go through the products available on th
 
 # About Team 
 
-*Batch Name :* B8-2A4E
+*Batch Name :* B2-2A4E
 
-*Team ID :* PNT2022TMID38912 
+*Team ID :* PNT2022TMID32142 
 
 
 *Team Leader :* GOKULSANKAR T
@@ -28,7 +26,7 @@ The user will login into the website and go through the products available on th
 # Mentor
 *Industry Mentor(s) Name :* Krishna Chaitanya
 
-*Faculty Mentor(s) Name :* R SIVARANJINI
+*Faculty Mentor(s) Name :* SURESH KUMAR V S
 
 # About College
 
@@ -45,10 +43,10 @@ NANDHA COLLEGE OF  TECHNOLOGY
 
 ## Assignment  
 
- - [Team Leader : GOKULSANKAR T(https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20Lead%20-%20PARAMESHWARAN%20VK)
- - [Team member : VIDHYA V](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MANOJ%20ADHITHYAN%20A)
- - [Team member : GUHAN SANMUGAM A(https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MOHANRAJ%20M)
- - [Team member : ALOK C](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20DAYANITHI%20S)
+ - [Team Leader : GOKULSANKAR T(https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20Lead%20-%20PARAMESHWARAN%20VK)]
+ - [Team member : VIDHYA V](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MANOJ%20ADHITHYAN%20A)]
+ - [Team member : GUHAN SANMUGAM A(https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MOHANRAJ%20M)]
+ - [Team member : ALOK C](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20DAYANITHI%20S)]
 
 
 ## Project Design & Planning
